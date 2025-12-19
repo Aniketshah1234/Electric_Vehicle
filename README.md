@@ -1,5 +1,5 @@
-🚗 Electric Vehicle Data Analysis Project
-📌 Project Overview
+## 🚗 Electric Vehicle Data Analysis Project
+# 📌 Project Overview
 
 This project presents an end-to-end data analysis of Electric Vehicles (EVs) using real-world data. The analysis focuses on understanding EV adoption trends, market composition, technological efficiency, and regional distribution across the United States.
 
