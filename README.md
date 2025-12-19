@@ -100,11 +100,10 @@ The project demonstrates industry-relevant skills in data cleaning, KPI creation
 
 -Experience presenting insights in stakeholder-ready format
 
-## 📎 Use Case
 
--✔ Portfolio Project for Data Analyst / Business Analyst roles
--✔ Resume & LinkedIn project showcase
--✔ Interview discussion on KPIs, dashboards, and insights
+## 🔗 Power BI Dashboard
+- 👉 [View Interactive Power BI Dashboard](https://drive.google.com/file/d/1oLGysLZhwTi_wJwA5-NFKGQGVIz-4XL4/view?usp=sharing)
+
 
 ## 📬 Contact
 
